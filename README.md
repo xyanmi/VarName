@@ -6,8 +6,8 @@ Then input your description about the function of the variable name in Chinese,
 you can input more than one description and you can get a groups of varname with like:  
   
 english:aBC;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;ABC;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;a_b_c;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ABC;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;a_b_c;  
 pinyin:pinYin;  
         PinYin;  
         pin_yin;  
