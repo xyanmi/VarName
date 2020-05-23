@@ -1,9 +1,10 @@
 # VarName
 To create a formal variable name,
 
-download this file,and then use python3 to run this python file.
+Download this file,and then use python3 to run this python file.
 Then input your description about the function of the variable name in Chinese,
 you can input more than one description and you can get a groups of varname with like:
+
 english:aBC;
         ABC;
         a_b_c;
@@ -22,5 +23,12 @@ If you input english ,this will operate it to  be formal:
                             HelloWorld;
                             hello_world;
                             
+                            
+
+Or you can import this file by 'import varname',
+if you use this , please input:
+        var_get = varname.VarName()
+        var_get.get()
+and then you can do like befoe.
 
                             
