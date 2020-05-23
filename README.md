@@ -9,26 +9,26 @@ english:aBC;
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;ABC;  
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;a_b_c;  
 pinyin:pinYin;  
-        PinYin;  
-        pin_yin;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;PinYin;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;pin_yin;  
           
 If you input more than one description you will get more names about it behind them.  
   
 If you input english ,this will operate it to  be formal:  
-    if you input : hello word  
-    you will get : english: helloWorld;  
-                            HelloWorld;  
-                            hello_world;  
-                   pinyin : helloWorld;  
-                            HelloWorld;  
-                            hello_world;  
+&ensp;&ensp;&ensp;&ensp;if you input : hello word  
+&ensp;&ensp;&ensp;&ensp;you will get : english: helloWorld;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;HelloWorld;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;hello_world;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;pinyin : helloWorld;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;HelloWorld;  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;hello_world;  
                               
                                 
   
 Or you can import this file by 'import varname',  
 if you use this , please input:  
-        var_get = varname.VarName()  
-        var_get.get()  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;var_get = varname.VarName()  
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;var_get.get()  
 and then you can do like befoe.  
 
                             
