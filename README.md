@@ -47,6 +47,14 @@ git clone https://github.com/Tikmoing/VarName.git
    var_get = varname.VarName()
    description = '随机过程'    #description是对变量作用的描述
    var_get.getName((description,))  #传入的参数必须是元组
+   '''output:
+   英语小驼峰式：randomVariables,
+   英语大驼峰式：RandomVariables,
+   英语下划线式：Random_Variables,
+   全拼小驼峰式：suiJiBianLiang,
+   全拼大驼峰式：SuiJiBianLiang,
+   全拼下划线式：sui_ji_bian_liang,
+   '''
    ```
 
    输出的结果为:
