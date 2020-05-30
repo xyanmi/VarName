@@ -215,7 +215,7 @@ class VarName:
                 get.append(self.operate(i))
                 get2.append(self.quanpin(i))
             else:
-                i = re.sub("[ ]+","",i)
+                i = re.sub("[ ]+"," ",i)
                 get.append(self.geten(i))
                 get2.append(self.getcn(i))
 
