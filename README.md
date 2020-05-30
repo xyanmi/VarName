@@ -70,9 +70,9 @@ git clone https://github.com/Tikmoing/VarName.git
    >
    ```
    
-输出:
+   输出:
    
-```shell
+   ```shell
    英语小驼峰式：stochasticProcess,randomEvents,
    英语大驼峰式：StochasticProcess,RandomEvents,
    英语下划线式：stochastic_process,Random_events,
@@ -89,9 +89,9 @@ git clone https://github.com/Tikmoing/VarName.git
    >
    ```
    
-结果：
+   结果：
    
-```shell
+   ```shell
    英语小驼峰式：randomEvents,outputPrint,
    英语大驼峰式：RandomEvents,OutputPrint,
    英语下划线式：Random_events,Output_Print,
@@ -109,9 +109,9 @@ git clone https://github.com/Tikmoing/VarName.git
    >
    ```
    
-会出现什么呢？其实就是一下结果：
+   结果如下：
    
-```shell
+   ```shell
    英语小驼峰式：randomEvent,
    英语大驼峰式：RandomEvent,
    英语下划线式：random_event,
